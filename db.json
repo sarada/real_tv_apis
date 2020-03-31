@@ -1,16 +1,13 @@
 { 
-   "ch1_time":  [
+   "ch1_time": 
     {
       "time": 1585747432
     },
-    "ch1_time2":  [
+   "ch1_time2":  
     {
       "time": 21585747432
-    }
-
-  ],
-
-  "profile": {
+    } ,
+   "profile": {
     "name": "typicode"
   }
 }
