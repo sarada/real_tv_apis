@@ -5,5 +5,6 @@
     }], 
     "ch2_hsn": {
        "hsn": "1585747432~acl=%2f*~data=hdntl~hmac=b24cbdaeb1a3faf15630f6be677a7e270ab5e11f81e7114f11f976be1809ee71"
-     } 
+       "link": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=/master_900.m3u8" 
+    } 
 }
