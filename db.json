@@ -1,17 +1,22 @@
 {
-  "ch1":  
+  "ch1_hsn":  
     {
-      "hsn": "hellosdjsjklajjdjalkjdjakjdljalkjsdlkjakld",
-      "time": 211981298918028091 
+      "hsn": "b24cbdaeb1a3faf15630f6be677a7e270ab5e11f81e7114f11f976be1809ee71",
     }
    , 
-  "ch2":  
+  "ch1_time":  
     {
-      "hsn": "kwke;lwk;ek;wk;e",
-      "time": 3290232323 
+      "time": 1585747432 
+    }
+    , "ch2_hsn":  
+    {
+      "hsn": "b24cbdaeb1a3faf15630f6be677a7e270ab5e11f81e7114f11f976be1809ee71",
     }
    ,
-  "profile": {
-    "name": "Real_TV_API"
-  }
+    "ch2_time":  
+    {
+      "time": 1585747432 
+    }
+   , 
+
 }
