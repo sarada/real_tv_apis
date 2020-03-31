@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "get": [
     {
-      "id": 1,
-      "title": "hello"
+      "hsn": "hellosdjsjklajjdjalkjdjakjdljalkjsdlkjakld",
+      "time": 211981298918028091 
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Real_TV_API"
   }
 }
