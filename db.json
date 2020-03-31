@@ -1,10 +1,16 @@
 {
-  "get": [
+  "ch1":  
     {
       "hsn": "hellosdjsjklajjdjalkjdjakjdljalkjsdlkjakld",
       "time": 211981298918028091 
     }
-  ],
+   , 
+  "ch2":  
+    {
+      "hsn": "kwke;lwk;ek;wk;e",
+      "time": 3290232323 
+    }
+   ,
   "profile": {
     "name": "Real_TV_API"
   }
