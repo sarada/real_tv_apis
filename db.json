@@ -1,10 +1,10 @@
 { 
    "ch1_hsn": [
     {
-       "hsn": "1585800579~acl=%2f*~data=hdntl~hmac=3af63f683431a64dff4f70e1e26a3bea4d8e00d91871b5e75f63acaea79cae36"
+       "hsn": "1585859967~acl=%2f*~data=hdntl~hmac=34c629190270380da67219b64503dcc605c797750b50c931c61a31016ea0b9f2"
     }], 
     "ch2_hsn": {
        "hsn": "1585747432~acl=%2f*~data=hdntl~hmac=b24cbdaeb1a3faf15630f6be677a7e270ab5e11f81e7114f11f976be1809ee71",
-       "link": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=/master_900.m3u8"
+       "link": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1585859967~acl=%2f*~data=hdntl~hmac=34c629190270380da67219b64503dcc605c797750b50c931c61a31016ea0b9f2/master_900.m3u8"
     } 
 }
