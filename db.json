@@ -3,8 +3,7 @@
     {
        "hsn": "1586241638~acl=%2f*~data=hdntl~hmac=0205356e840d670d007a85db11179bdd187793ccdae377a2185d49222f5dfa8a"
     }], 
-    "ch2_hsn": {
-       "hsn": "1585747432~acl=%2f*~data=hdntl~hmac=b24cbdaeb1a3faf15630f6be677a7e270ab5e11f81e7114f11f976be1809ee71",
-       "link": "https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1585859967~acl=%2f*~data=hdntl~hmac=34c629190270380da67219b64503dcc605c797750b50c931c61a31016ea0b9f2/master_900.m3u8"
+    "ch2_link": {
+       "link": "https://z5ams.akamaized.net/out/v1/81b68c3858bf4481ad93679fd4253cf6/exp=1586343644~acl=%2f*~data=hdntl~hmac=01ea6c013a73e427318f3dde579c725e9ff701db8c27e06874887f663c75bd9e/index_24.m3u8"
     } 
 }
