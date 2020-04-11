@@ -4,6 +4,6 @@
        "hsn": "1586672064~acl=%2f*~data=hdntl~hmac=161a57a9baf7683bdec59c9afea9dfef619a9d3cb6e26f01a53fcbcca06c8458"
     }], 
     "ch2_link": {
-       "link": "https://z5ams.akamaized.net/andflix/tracks-v3a1/exp=1586490865~acl=%2f*~data=hdntl~hmac=172617247102b8483de2ff65a22e2f63929dd1e691552fa8e993b5861c34879e/mono.m3u8"
+       "link": "https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1586588168~exp=1586591168~acl=/*~hmac=e6f91ae829176986e83735271576a6a604ca09e58b20df280209fb43ae3eacd6"
     } 
 }
