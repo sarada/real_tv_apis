@@ -4,7 +4,7 @@ Remove-Item C:\Users\manin\Downloads\sony_hsn_key.txt
 Remove-Item D:\ProjectWork\zee_script\real_tv_apis\zee_hsn_key.txt
 Remove-Item D:\ProjectWork\zee_script\real_tv_apis\sony_hsn_key.txt
 $chrome_process=start-process -FilePath 'c:\Program Files (x86)\Google\Chrome\Application\chrome.exe' 
-Start-Sleep -s 35 
+Start-Sleep -s 45 
 cd  D:\ProjectWork\zee_script\real_tv_apis
 $FileName = "D:\ProjectWork\zee_script\real_tv_apis\db.json"
 
