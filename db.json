@@ -6,7 +6,11 @@
     }], 
     "ch2_link": 
     { 
+<<<<<<< HEAD
        "link": "1586838657~exp=1586841657~acl=/*~hmac=0e33d7767c8f4c5f68238cb7b10b02491020a557b93d8e81860e09bf2aa42ef1"
+=======
+       "link": "1586816945~exp=1586819945~acl=/*~hmac=e85f1a731a366c93b6b5eb0dc52dd4d5b715363a56b7a43e802132eb98fc371d"
+>>>>>>> 75cb35b0d0a5f26194c5df2ce6bff163d42a5c14
 
     } 
 } 
