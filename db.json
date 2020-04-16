@@ -1,12 +1,12 @@
 {  
     "ch1_hsn": [  
     { 
-       "hsn": "1587134264~acl=%2f*~data=hdntl~hmac=600697c04879a5837eeb261596064d8fc955ee0aa6dfa6a76daf78623e8a6500/master_140.m3u"
+       "hsn": "1587135460~acl=%2f*~data=hdntl~hmac=2be6d20e138c5e1fdf78db2b4e061503d07937502a6983adb531d6cb75015ff5/master_140.m3u"
 
     }], 
     "ch2_link": 
     { 
-       "link": "1587046375~exp=1587049375~acl=/*~hmac=d9a52b7b15d2304c20fb1a7ce9105953262f56818791a3ef03c2821b899a6971"
+       "link": "1587047572~exp=1587050572~acl=/*~hmac=487391868289f40e9fe6f6a7f72797015eaabfed7660cb4b88658afe4a521efb"
 
     } 
 } 
