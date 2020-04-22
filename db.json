@@ -1,12 +1,12 @@
 {  
     "ch1_hsn": [  
     { 
-       "hsn": "1587647415~acl=%2f*~id=cba00b43-8844-4f79-a6d7-eeaacd7aba46~data=hdntl~hmac=fd4d1f4d0867ae7a037d78bc9f099226a6dee03edd832d753045c0b7e9264d83/181808.m3u"
+       "hsn": "1587648550~acl=%2f*~id=b7006931-b8cd-482b-b144-ca11b40ff7c8~data=hdntl~hmac=1a40ae5c873e565752af5fd72caaed736c73043784c1a6b8c70e1ccd3d6e584c/181808.m3u"
 
     }], 
     "ch2_link": 
     { 
-       "link": "1587559524~exp=1587562524~acl=/*~hmac=39c6362436bb2ff7069af7eb4436771199f8e1030a00abcfdb64fdd1293487ed"
+       "link": "1587560662~exp=1587563662~acl=/*~hmac=5a2aabdbd10854b571e8bc621a019938578c0ceeb7622623c9719a432305e639"
 
     } 
 } 
