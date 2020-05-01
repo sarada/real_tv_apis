@@ -1,12 +1,12 @@
 {  
     "ch1_hsn": [  
     { 
-       "hsn": "1588390475~acl=%2f*~id=7188b93f-0db4-4b12-850f-3757ae56ce10~data=hdntl~hmac=13809e1d8c905b84c2d5e797aef1bf82f0661db10d148bb6eab9c0947d009b65"
+       "hsn": "1588391614~acl=%2f*~data=hdntl~hmac=323f26978e8b5a6c31c15b0dfff7e0bfcef9e5e4a9890757fc5d16eea3a6a115"
 
     }], 
     "ch2_link": 
     { 
-       "link": "1588302580~exp=1588305580~acl=/*~hmac=ae86da4b7bc1c53565c93bfa3dbd3625e6b78a61acd6acdac0ca1e8c9cf837da"
+       "link": "1588303720~exp=1588306720~acl=/*~hmac=d3e36c286614f90675526f3943c85507f36f6104772290c62d5ca095412309f6"
 
     } 
 } 
