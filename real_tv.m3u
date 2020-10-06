@@ -890,7 +890,7 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=QYOUHD&q=1200&e
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Hi_Dost&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="D.English Enter.",HBO HD 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=HBO_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="D.English Enter.",Sony Pix HD 
+#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="E.English Movies",Sony Pix HD 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Pix_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="D.English Enter.",WB 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=WB&q=1200&e=.m3u8
