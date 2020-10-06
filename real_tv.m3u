@@ -147,7 +147,7 @@ https://load.airtel.tv/ddpunjabi/smil:common.smil/chunklist_b896000_sleng.m3u8?e
 https://load.airtel.tv/peaceofmind/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1
 #EXTINF:-1 tvg-id="2_26" tvg-name=Jhanjhar" group-title="H.Punjabi" tvg-logo="http://files.rednetcontent.com/chlogo/default.png",Jhanjhar
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF:-1 tvg-id="3_1" tvg-name=PIX HD" group-title="E.English Movies" tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg",PIX HD 
+#EXTINF:-1 tvg-id="3_1" tvg-name=PIX HD" group-title="E.English Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",PIX HD 
 http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=
 #EXTINF:-1 tvg-id="3_2" tvg-name=AndFlix" group-title="E.English Movies" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png",AndFlix
 https://z5ams.akamaized.net/andflix/index.m3u8?hdnts=st=
@@ -890,6 +890,8 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=QYOUHD&q=1200&e
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Hi_Dost&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="D.English Enter.",HBO HD 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=HBO_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="D.English Enter.",Pix HD 
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Pix_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="E.English Movies",Sony Pix HD 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Pix_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="D.English Enter.",WB 
