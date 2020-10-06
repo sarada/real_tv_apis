@@ -47,59 +47,59 @@ https://load.airtel.tv/cinematvindia/smil:common.smil/chunklist_b896000_sleng.m3
 https://load.airtel.tv/enterr10/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
 #EXTINF:-1 tvg-id="0_24" tvg-name=9X Jalwa" group-title="Zee5" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/9xjalwaaa.pngparent-code=1234",9X Jalwa
 https://load.airtel.tv/9xjalwa/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
-#EXTINF:-1 tvg-id="1_1" tvg-name=Sony Max HD" group-title="Sony" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png",Sony Max HD
+#EXTINF:-1 tvg-id="1_1" tvg-name=Sony Max HD" group-title="Hindi Enter." tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png",Sony Max HD
 http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=
-#EXTINF:-1 tvg-id="1_2" tvg-name=SET HD" group-title="Sony" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",SET HD 
+#EXTINF:-1 tvg-id="1_2" tvg-name=SET HD" group-title="Hindi Enter." tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",SET HD 
 http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=
-#EXTINF:-1 tvg-id="1_3" tvg-name=SAB HD" group-title="Sony" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",SAB HD 
+#EXTINF:-1 tvg-id="1_3" tvg-name=SAB HD" group-title="Hindi Enter." tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",SAB HD 
 http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=
-#EXTINF:-1 tvg-id="1_4" tvg-name=Sony Pal" group-title="Sony" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal 
+#EXTINF:-1 tvg-id="1_4" tvg-name=Sony Pal" group-title="Hindi Enter." tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal 
 http://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=
-#EXTINF:-1 tvg-id="1_5" tvg-name=Sony Max SD" group-title="Sony" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max SD
+#EXTINF:-1 tvg-id="1_5" tvg-name=Sony Max SD" group-title="Hindi Enter." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max SD
 http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=
-#EXTINF:-1 tvg-id="1_6" tvg-name=Sony Wah" group-title="Sony" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah 
+#EXTINF:-1 tvg-id="1_6" tvg-name=Sony Wah" group-title="Hindi Enter." tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah 
 http://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=
-#EXTINF:-1 tvg-id="1_7" tvg-name=Sony Max 2" group-title="Sony" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2 
+#EXTINF:-1 tvg-id="1_7" tvg-name=Sony Max 2" group-title="Hindi Enter." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2 
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="1_8" tvg-name=Colors hd" group-title="Sony" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors hd
+#EXTINF:-1 tvg-id="1_8" tvg-name=Colors hd" group-title="Hindi Enter." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors hd
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd!!drm_lic=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGUXc0RlBZcmJiMzBBdEhCd1llZUhtODh1ZUp0eGV3bTRMbjcwMlhrdVBhNWRYbVJVeGxsQlhncUhDSEJNa1dpOG5WUHBaaXFoUHZOTWprb3hZbXk0N2U1clczSWppQW4tck1WY2xlcXRacnQ0bDJYU3hwMDNXdkJBTUpybV9tcTk5WFpWZ09Tc29yZ09qYlhNNncwenlidlZTMUFVWWFvamJXSi04bV9lR2VESVJJcTNMNTJkTGNXdzRmZTFmU0VSQ0VFa1F0SXQ5UTBTR0JBaEE4eWRWc0JZQlA3TEJNZ0FGSE90S0JCMmtia3ZNc0RkX2R4Q0xESmFWTXRNVlktRGZTUjlYSEVXLVBEVkFBaDRhVFdjZ3NVS0NCYUxLUzF3LWVEczZvQ0o2VDhKRms2WU5pVzM0S2J3X1QzMUozVXdLS0ZuY0ZNME1qRkhQTmVCc1RtdGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM3MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRlF3NEZQWXJiYjMwQXRIQndZZWVIbTg4dWVKdHhld200TG43MDJYa3VQYTVkWG1SVXhsbEJYZ3FIQ0hCTWtXaThuVlBwWmlxaFB2Tk1qa294WW15NDdlNXJXM0lqaUFuLXJNVmNsZXF0WnJ0NGwyWFN4cDAzV3ZCQU1Kcm1fbXE5OVhaVmdPU3NvcmdPamJYTTZ3MHp5YnZWUzFBVVlhb2piV0otOG1fZUdlRElSSXEzTDUyZExjV3c0ZmUxZlNFUkNFRWtRdEl0OVEwU0dCQWhBOHlkVnNCWUJQN0xCTWdBRkhPdEtCQjJrYmt2TXNEZF9keENMREphVk10TVZZLURmU1I5WEhFVy1QRFZBQWg0YVRXY2dzVUtDQmFMS1Mxdy1lRHM2b0NKNlQ4SkZrNllOaVczNEtid19UMzFKM1V3S0tGbmNGTTBNakZIUE5lQnNUbXRnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=f%2bkf%2b%2fUFG2iMp2klPrYC7Da60ss%3d
-#EXTINF:-1 tvg-id="1_9" tvg-name=Rishtey" group-title="Sony" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
+#EXTINF:-1 tvg-id="1_9" tvg-name=Rishtey" group-title="Hindi Enter." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
 https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd!!drm_lic=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
-#EXTINF:-1 tvg-id="1_10" tvg-name=Cineplexhd" group-title="Sony" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Cineplexhd 
+#EXTINF:-1 tvg-id="1_10" tvg-name=Cineplexhd" group-title="Hindi Enter." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Cineplexhd 
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd!!drm_lic=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d
-#EXTINF:-1 tvg-id="1_11" tvg-name=Masti" group-title="Sony" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Masti
+#EXTINF:-1 tvg-id="1_11" tvg-name=Masti" group-title="Hindi Enter." tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Masti
 https://load.airtel.tv/mastiii/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
-#EXTINF:-1 tvg-id="1_12" tvg-name=ThegYou" group-title="Sony" tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/386x386/09181theqindiahd.png",ThegYou
+#EXTINF:-1 tvg-id="1_12" tvg-name=ThegYou" group-title="Hindi Enter." tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/386x386/09181theqindiahd.png",ThegYou
 https://load.airtel.tv/theqyou/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
-#EXTINF:-1 tvg-id="1_13" tvg-name=bollywood-premier" group-title="Sony" tvg-logo="https://www.iconfinder.com/icons/3883935/mouthpiece_tv_television%20advertisement_television_advertising_icon",bollywood-premier
+#EXTINF:-1 tvg-id="1_13" tvg-name=bollywood-premier" group-title="Hindi Enter." tvg-logo="https://www.iconfinder.com/icons/3883935/mouthpiece_tv_television%20advertisement_television_advertising_icon",bollywood-premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8 
-#EXTINF:-1 tvg-id="1_14" tvg-name=BollywoodClassic" group-title="Sony" tvg-logo="https://www.iconfinder.com/icons/3883935/mouthpiece_tv_television%20advertisement_television_advertising_icon",BollywoodClassic 
+#EXTINF:-1 tvg-id="1_14" tvg-name=BollywoodClassic" group-title="Hindi Enter." tvg-logo="https://www.iconfinder.com/icons/3883935/mouthpiece_tv_television%20advertisement_television_advertising_icon",BollywoodClassic 
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="1_15" tvg-name=BollywoodHD" group-title="Sony" tvg-logo="https://www.iconfinder.com/icons/3883935/mouthpiece_tv_television%20advertisement_television_advertising_icon",BollywoodHD
+#EXTINF:-1 tvg-id="1_15" tvg-name=BollywoodHD" group-title="Hindi Enter." tvg-logo="https://www.iconfinder.com/icons/3883935/mouthpiece_tv_television%20advertisement_television_advertising_icon",BollywoodHD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END 
-#EXTINF:-1 tvg-id="1_16" tvg-name=Ndtv Good Times" group-title="Sony" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_297/LOGO/0417e8a9-1a6a-4484-aabf-753f029eb987.jpg",Ndtv Good Times
+#EXTINF:-1 tvg-id="1_16" tvg-name=Ndtv Good Times" group-title="Hindi Enter." tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_297/LOGO/0417e8a9-1a6a-4484-aabf-753f029eb987.jpg",Ndtv Good Times
 https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
-#EXTINF:-1 tvg-id="1_17" tvg-name=Dabang" group-title="Sony" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_594/LOGO/da966e18-73e9-4adf-8747-e9c566eae0c8.jpg",Dabang 
+#EXTINF:-1 tvg-id="1_17" tvg-name=Dabang" group-title="Hindi Enter." tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_594/LOGO/da966e18-73e9-4adf-8747-e9c566eae0c8.jpg",Dabang 
 https://load.airtel.tv/dabanggtv/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
-#EXTINF:-1 tvg-id="1_18" tvg-name=Enter10" group-title="Sony" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/hindi-b4u-movies.png",Enter10
+#EXTINF:-1 tvg-id="1_18" tvg-name=Enter10" group-title="Hindi Enter." tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/hindi-b4u-movies.png",Enter10
 https://load.airtel.tv/enterr10/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1 
-#EXTINF:-1 tvg-id="1_19" tvg-name=Manoranjantv" group-title="Sony" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/punjabi-manoranjan-movies.jpeg",Manoranjantv 
+#EXTINF:-1 tvg-id="1_19" tvg-name=Manoranjantv" group-title="Hindi Enter." tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/punjabi-manoranjan-movies.jpeg",Manoranjantv 
 http://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8 
-#EXTINF:-1 tvg-id="1_20" tvg-name=Mahamovie" group-title="Sony" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2820.MahaMovie.in/1x1/1x/test_pic1535464244460.jpg",Mahamovie
+#EXTINF:-1 tvg-id="1_20" tvg-name=Mahamovie" group-title="Hindi Enter." tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2820.MahaMovie.in/1x1/1x/test_pic1535464244460.jpg",Mahamovie
 http://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
-#EXTINF:-1 tvg-id="1_21" tvg-name=Multiplexcinema" group-title="Sony" tvg-logo="http://img2.beta.myplex.in/219264/640x360_MultiplexCinema_219264_3f0a6162-6df5-4546-855b-9d3154c9e1f2.jpg",Multiplexcinema
+#EXTINF:-1 tvg-id="1_21" tvg-name=Multiplexcinema" group-title="Hindi Enter." tvg-logo="http://img2.beta.myplex.in/219264/640x360_MultiplexCinema_219264_3f0a6162-6df5-4546-855b-9d3154c9e1f2.jpg",Multiplexcinema
 http://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
-#EXTINF:-1 tvg-id="1_22" tvg-name=Multiplex" group-title="Sony" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/hindi-mtunes-plus.png",Multiplex
+#EXTINF:-1 tvg-id="1_22" tvg-name=Multiplex" group-title="Hindi Enter." tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/hindi-mtunes-plus.png",Multiplex
 http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
-#EXTINF:-1 tvg-id="1_23" tvg-name=WOWCinemaOne" group-title="Sony" tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg",WOWCinemaOne 
+#EXTINF:-1 tvg-id="1_23" tvg-name=WOWCinemaOne" group-title="Hindi Enter." tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg",WOWCinemaOne 
 http://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8 
-#EXTINF:-1 tvg-id="1_25" tvg-name=BOXCinema" group-title="Sony" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6523.BOXCinema.in/1x1/1x/test_pic1561284881697.jpg",BOXCinema
+#EXTINF:-1 tvg-id="1_25" tvg-name=BOXCinema" group-title="Hindi Enter." tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6523.BOXCinema.in/1x1/1x/test_pic1561284881697.jpg",BOXCinema
 http://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8 
-#EXTINF:-1 tvg-id="1_26" tvg-name=ShowBox" group-title="Sony" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7002.ShowBox.in/1x1/1x/test_pic1572530599181.jpg",ShowBox
+#EXTINF:-1 tvg-id="1_26" tvg-name=ShowBox" group-title="Hindi Enter." tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7002.ShowBox.in/1x1/1x/test_pic1572530599181.jpg",ShowBox
 http://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8 
-#EXTINF:-1 tvg-id="1_27" tvg-name=Mastiii" group-title="Sony" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_522/LOGO/f96014b9-17c1-4182-9ef7-bb4cf04e84cd.jpg",Mastiii
+#EXTINF:-1 tvg-id="1_27" tvg-name=Mastiii" group-title="Hindi Enter." tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_522/LOGO/f96014b9-17c1-4182-9ef7-bb4cf04e84cd.jpg",Mastiii
 http://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8 
-#EXTINF:-1 tvg-id="1_28" tvg-name=Bollywood Classic" group-title="Sony" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Yupp_Hindi_Classics_Tv.jpg",Bollywood Classic
+#EXTINF:-1 tvg-id="1_28" tvg-name=Bollywood Classic" group-title="Hindi Enter." tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Yupp_Hindi_Classics_Tv.jpg",Bollywood Classic
 http://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="2_1" tvg-name=MH1" group-title="Punjabi" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/punjabi-zee-punjabi.png",MH1
 https://load.airtel.tv/mh1/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1
@@ -1109,15 +1109,15 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CVR_English&q=1
 #EXTINF:-1 tvg-id="1338" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English News",RT TV 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=RT_TV&q=1200&e=.m3u8 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nepal_one&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Business News",Zee Business 
+#EXTINF:-1 tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="News",Zee Business 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Business&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business News",CNBC Tv18 Prime HD 
+#EXTINF:-1 tvg-id="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="News",CNBC Tv18 Prime HD 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNBC_Tv18_Prime_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business News",NDTV Profit 
+#EXTINF:-1 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="News",NDTV Profit 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=NDTV_Profit&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Business News",CNBC Awaaz 
+#EXTINF:-1 tvg-id="190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="News",CNBC Awaaz 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNBC_Awaaz&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Business News",CNBC Tv 18 
+#EXTINF:-1 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="News",CNBC Tv 18 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNBC_Tv_18&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="Business News",ET Now 
+#EXTINF:-1 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="News",ET Now 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ET_Now&q=1200&e=.m3u8
