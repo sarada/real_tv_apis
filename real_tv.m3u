@@ -330,854 +330,91 @@ https://load.airtel.tv/rt/smil:common.smil/chunklist_b896000_sleng.m3u8?e=1
 #EXTINF:-1 tvg-id="6_22" tvg-name=Al-Jazeera" group-title="L.News" tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/english-cnn-news.png",Al-Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR BHARAT HD Alt" group-title="A.Hindi Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/StarBharatOfficialLogo.png"parent-code=1234" audio-track="IN",STAR BHARAT HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48104
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR GOLD HD Alt" group-title="A.Hindi Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/stargoldne.png"parent-code=1234" audio-track="IN",STAR GOLD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48107
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR GOLD SELECT HD Alt" group-title="A.Hindi Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/stargoldne.png"parent-code=1234" audio-track="IN",STAR GOLD SELECT HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48108
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR PLUS HD Alt" group-title="A.Hindi Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/starpluss.png"parent-code=1234" audio-track="IN",STAR PLUS HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48109
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=CINEMA TV  Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Zee-Cinema1.png"parent-code=1234" audio-track="IN",CINEMA TV 	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48117
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MOVIE HOUSE Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hindimov\u0131es.png"parent-code=1234" audio-track="IN",MOVIE HOUSE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48118
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=GANGA Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BIG-Ganga_Logo.png"parent-code=1234" audio-track="IN",GANGA	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48119
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SONY MIX Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SonyMix.png"parent-code=1234" audio-track="IN",SONY MIX	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48123
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MAHA MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mahamovies.png"parent-code=1234" audio-track="IN",MAHA MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48124
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=B4U MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/b4umoviess.png"parent-code=1234" audio-track="IN",B4U MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48125
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ENTER 10 MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/enter-10-tv-channel-logo-300x300.png"parent-code=1234" audio-track="IN",ENTER 10 MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48126
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=AND FLIX HD Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDANDFLX.png"parent-code=1234" audio-track="IN",AND FLIX HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48128
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=COMEDY ACTIVE Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/comedy1234.png"parent-code=1234" audio-track="IN",COMEDY ACTIVE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48129
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=AND TV HD Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ANDTV.png"parent-code=1234" audio-track="IN",AND TV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48130
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISH CINE ACTIVE Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ACTIVECINE.png"parent-code=1234" audio-track="IN",DISH CINE ACTIVE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48131
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=EVERGREEN CLASSIC Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/evergreen.png"parent-code=1234" audio-track="IN",EVERGREEN CLASSIC	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48132
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MOVIES ACTIVE Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/active14.png"parent-code=1234" audio-track="IN",MOVIES ACTIVE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48133
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=UTV ACTION Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/UTV_HD.png"parent-code=1234" audio-track="IN",UTV ACTION	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48134
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=&PictureHD" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/andpicturess.png"parent-code=1234" audio-track="IN",&PictureHD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48135
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=WARNER BROS Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/2019_wb_pictures.png"parent-code=1234" audio-track="IN",WARNER BROS	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48136
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=UTV HD Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/utvlv.png"parent-code=1234" audio-track="IN",UTV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48143
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MINIPLEX HD Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/miniplex_fb.png"parent-code=1234" audio-track="IN",MINIPLEX HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48158
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BINDAS MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BNDSS.png"parent-code=1234" audio-track="IN",BINDAS MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48170
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=UTV MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/UTVMovies_logo.png"parent-code=1234" audio-track="IN",UTV MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48171
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TATA SKY BOLLYWOOD HD Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tatsky.png"parent-code=1234" audio-track="IN",TATA SKY BOLLYWOOD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48166
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR UTSAV MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Dishtv_2011.png"parent-code=1234" audio-track="IN",STAR UTSAV MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48175
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HOUSEFULL MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/housefull-movies.png"parent-code=1234" audio-track="IN",HOUSEFULL MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48192
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HOUSEFULL ACTION Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/housefull-movies.png"parent-code=1234" audio-track="IN",HOUSEFULL ACTION	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48193
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MAHA MOVIE Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mahamovies.png"parent-code=1234" audio-track="IN",MAHA MOVIE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48201
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MULTIPLEX MOVIES Alt" group-title="B.Hindi Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mltpmvs.png"parent-code=1234" audio-track="IN",MULTIPLEX MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48215
-									  
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=B4U MUSIC Alt" group-title="F.Music NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/music4u.png"parent-code=1234" audio-track="IN",B4U MUSIC	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48180
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MASTII Alt" group-title="F.Music NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDMST.png"parent-code=1234" audio-track="IN",MASTII	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48188
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MUSIC INDIA Alt" group-title="F.Music NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hndmst12.png"parent-code=1234" audio-track="IN",MUSIC INDIA	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48194
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MTUNES PLUS Alt" group-title="F.Music NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mtunesslogo.png"parent-code=1234" audio-track="IN",MTUNES PLUS	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48214
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MOVIES NOW HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png"parent-code=1234" audio-track="IN",MOVIES NOW HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48160
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=FOX LIFE HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/Spanish/Fox_life_it.png"parent-code=1234" audio-track="IN",FOX LIFE HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48161
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MN PLUS HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png"parent-code=1234" audio-track="IN",MN PLUS HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48163
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MNX HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hndmnx.png"parent-code=1234" audio-track="IN",MNX HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48159
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR WORLD HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARWORLDS.png"parent-code=1234" audio-track="IN",ENGLISH STAR WORLD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47858
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR MOVIES HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARMOV\u0130ESHD.png"parent-code=1234" audio-track="IN",ENGLISH STAR MOVIES HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47859
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR WORLD PREMIER HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/starworldpremer.png"parent-code=1234" audio-track="IN",ENGLISH STAR WORLD PREMIER HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47860
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR MOVIES SELECT HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star-Movies-Select-HD_8.png"parent-code=1234" audio-track="IN",ENGLISH STAR MOVIES SELECT HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47861
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=FOX LIFE HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Fox_life_hd1.png"parent-code=1234" audio-track="IN",ENGLISH FOX LIFE HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47863
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=AXN HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/engl\u0131shaxn12.png"parent-code=1234" audio-track="IN",ENGLISH AXN HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47864
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HBO HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HBOHD.png"parent-code=1234" audio-track="IN",ENGLISH HBO HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47866
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TATA SKY WORLD CINEMA HD Alt" group-title="E.English Movies NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TLCHD.png"parent-code=1234" audio-track="IN",ENGLISH TATA SKY WORLD CINEMA HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47867
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=COMEDY CENTRAL HD Alt" group-title="D.English Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/comedycentral.png"parent-code=1234" audio-track="IN",ENGLISH COMEDY CENTRAL HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47872
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ROMEDY NOW HD Alt" group-title="D.English Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/romedynow.png"parent-code=1234" audio-track="IN",ENGLISH ROMEDY NOW HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47875
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=&PRIVE HD Alt" group-title="D.English Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/PR\u0130VEHD.png"parent-code=1234" audio-track="IN",ENGLISH AND PRIVE HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47879
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=COLORS INFINITY HD Alt" group-title="D.English Enter. NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Colors-Infinity-logo.png"parent-code=1234" audio-track="IN",ENGLISH COLORS INFINITY HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47880
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=LIVING FOODZ HD Alt" group-title="G.Lifestyle NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/lvgnfoodz.png"parent-code=1234" audio-track="IN",LIVING FOODZ HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48145
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=EPIC HD Alt" group-title="G.Lifestyle NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/epic.png"parent-code=1234" audio-track="IN",EPIC HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48212
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NDTV GOOD TIMES Alt" group-title="G.Lifestyle NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDTVGOODTIMES.png"parent-code=1234" audio-track="IN",NDTV GOOD TIMES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48213
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BBC EARTH HD ENGLISH " group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png"parent-code=1234" audio-track="IN",ENGLISH BBC EARTH HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47869
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TLC WORLD HD ENGLISH " group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png"parent-code=1234" audio-track="IN",ENGLISH TLC WORLD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47876
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TRAVEL XP HD ENGLISH " group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/LOGO-CANALE.png"parent-code=1234" audio-track="IN",ENGLISH TRAVEL XP HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47881
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ANIMAL PLANET WORLD HD Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png"parent-code=1234" audio-track="IN",ANIMAL PLANET WORLD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47874
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ANIMAL PLANET HD ENGLISH" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png"parent-code=1234" audio-track="IN",ENGLISH ANIMAL PLANET HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47868
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY WORLD HD Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/discoveryworld.png"parent-code=1234" audio-track="IN",DISCOVERY WORLD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48137
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY WORLD HD ENGLISH" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo/Discovery_World_Latinoamerica_alternative.png"parent-code=1234" audio-track="IN",ENGLISH DISCOVERY WORLD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47878
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NAT GEO WILD HD Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/nat123.png"parent-code=1234" audio-track="IN",NAT GEO WILD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48127
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NAT GEO WILD HD Alt ENGLISH " group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Logo_Nat_Geo_Wild.svg.png"parent-code=1234" audio-track="IN",ENGLISH NAT GEO WILD HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47873
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NAT GEO HD Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png"parent-code=1234" audio-track="IN",NAT GEO HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48149
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NAT GEO ENGLISH HD Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/national-geographic-logo-png--1900.png"parent-code=1234" audio-track="IN",ENGLISH NATGEO ENGLISH HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47865
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HISTORY TV 18 HD" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/historytv18.png"parent-code=1234" audio-track="IN",HISTORY TV 18 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48156
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HISTORY TV 18 HD ENGLISH" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/150px-History_TV18_logo.png"parent-code=1234" audio-track="IN",ENGLISH HISTORY TV 18 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47870
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY JEET HD Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Discovery-Jeet_2.png"parent-code=1234" audio-track="IN",DISCOVERY JEET HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48144
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY TURBO Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/discovery-turbo-logo-300x160.png"parent-code=1234" audio-track="IN",ENGLISH DISCOVERY TURBO	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47884
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY SCIENCE Alt" group-title="J.Infotainment NW" tvg-logo="http://files.rednetcontent.com/chlogo/Osn-Discovery-Science.png"parent-code=1234" audio-track="IN",ENGLISH DISCOVERY SCIENCE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47886
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=JIO CRICKET Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/JOOcrket.png"parent-code=1234" audio-track="IN",JIO CRICKET	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=18190
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS 1 HINDI HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS 1 HINDI HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48105
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS SONY ESPN HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/1200px-Sony_ESPN_logo2.png"parent-code=1234" audio-track="IN",SPORTS SONY ESPN HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47877
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Sports 1 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"parent-code=1234" audio-track="IN",Star Sports 1 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=14000
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Sports 2 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"parent-code=1234" audio-track="IN",Star Sports 2 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=18181
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS 2 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS 2 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48103
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS 1 ENGLISH HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS 1 ENGLISH HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48106
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS SELECT 1 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT1.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS SELECT 1 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48110
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS SELECT 2 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT2.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS SELECT 2 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48111
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS 3  Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS 3 	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48114
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS STAR SPORTS FIRST Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSFIRST1.png"parent-code=1234" audio-track="IN",SPORTS STAR SPORTS FIRST	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48120
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS DD SPORTS Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/spportsdd1.png"parent-code=1234" audio-track="IN",SPORTS DD SPORTS	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48121
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS TEN 2 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sony_Ten_31.png"parent-code=1234" audio-track="IN",SPORTS TEN 2 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48148
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS SONY SIX HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sportsonysx1.png"parent-code=1234" audio-track="IN",SPORTS SONY SIX HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48154
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS TEN 1 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sony_Ten_11.png"parent-code=1234" audio-track="IN",SPORTS TEN 1 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48155
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS TEN 3 HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sportten3.png"parent-code=1234" audio-track="IN",SPORTS TEN 3 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48162
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS D SPORTS HD Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SPORTD14.png"parent-code=1234" audio-track="IN",SPORTS D SPORTS HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48165
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SPORTS SONY SIX Back-UP Alt" group-title="I.Sports NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Sportsonysx1.png"parent-code=1234" audio-track="IN",SPORTS SONY SIX Back-UP	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48239
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=VH1 HD Alt" group-title="F.Music NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ENGLSHVH1.png"parent-code=1234" audio-track="IN",ENGLISH VH1 HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47871
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=B4U Music Alt" group-title="F.Music NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/music4u.png"parent-code=1234" audio-track="IN",B4U Music	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=2663
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY KIDS Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ENGLSHDISKIDSS.png"parent-code=1234" audio-track="IN",ENGLISH DISCOVERY KIDS	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=47885
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=KIDS BABY TV HD Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BabyTV1.png"parent-code=1234" audio-track="IN",KIDS BABY TV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48147
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=KIDS NICK PLUS HD Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/YTV_Nick_Plus_Logo_2.png"parent-code=1234" audio-track="IN",KIDS NICK PLUS HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48157
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=KIDS DISNEY INTERNATIONAL HD Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Disney_International_HD_logo.png"parent-code=1234" audio-track="IN",KIDS DISNEY INTERNATIONAL HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48164
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=KIDS CN PLUS HD Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/KDSCNPLUS1.png"parent-code=1234" audio-track="IN",KIDS CN PLUS HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48167
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=KIDS DISNEY XD Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/KIDSDISNEY1.png"parent-code=1234" audio-track="IN",KIDS DISNEY XD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48172
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HINDI DISNEY SD Alt" group-title="K.Kids NW" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png"parent-code=1234" audio-track="IN",DISNEY SD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48138
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DD PUNJABI  Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/punjabi.png"parent-code=1234" audio-track="IN",PUNJABI DD PUNJABI 	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48070
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ZEE PUNJAB HARYANA Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/punjab125.png"parent-code=1234" audio-track="IN",PUNJABI ZEE PUNJAB HARYANA	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48071
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MANORANJAN MOVIES Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Manoranjan_Movies.png"parent-code=1234" audio-track="IN",PUNJABI MANORANJAN MOVIES	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48072
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MAHA PUNJABI Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mahamovies.png"parent-code=1234" audio-track="IN",PUNJABI MAHA PUNJABI	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48073
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PUNJABI TADKA  Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tadkaapunjab.png"parent-code=1234" audio-track="IN",PUNJABI PUNJABI TADKA 	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48074
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=INDIA NEWS PUNJAB Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDNEWS.png"parent-code=1234" audio-track="IN",PUNJABI INDIA NEWS PUNJAB	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48075
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TATA SKY PUNJAB DE RANG Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/tatsky.png"parent-code=1234" audio-track="IN",PUNJABI TATA SKY PUNJAB DE RANG	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48076
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ZEE PUNJABI Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Zee-Punjabi.png"parent-code=1234" audio-track="IN",PUNJABI ZEE PUNJABI	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48077
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MH1 SHARADDHA Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sharaddha.png"parent-code=1234" audio-track="IN",PUNJABI MH1 SHARADDHA	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48078
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MH1 MUSIC Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mh1musiccc.png"parent-code=1234" audio-track="IN",PUNJABI MH1 MUSIC	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48079
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PITAARA  Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/PITAARAA.png"parent-code=1234" audio-track="IN",PUNJABI PITAARA 	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48081
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=FATEH TV Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/fateh-tv.png"parent-code=1234" audio-track="IN",PUNJABI FATEH TV	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48082
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=JUS 24x7 Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/JUS24.png"parent-code=1234" audio-track="IN",PUNJABI JUS 24x7	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48083
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=JUS ONE Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/jus-one-live.png"parent-code=1234" audio-track="IN",PUNJABI JUS ONE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48084
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PTC CHAKDE Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/CHAKDEPTV.png"parent-code=1234" audio-track="IN",PUNJABI PTC CHAKDE	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48085
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BRIT ASIA Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BRITASIA.png"parent-code=1234" audio-track="IN",PUNJABI BRIT ASIA	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48086
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=CHARDIKALAH TIMES TV Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TIMESTV.png"parent-code=1234" audio-track="IN",PUNJABI CHARDIKALAH TIMES TV	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48087
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=AIKAM TV HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/AIKAMTVHD.png"parent-code=1234" audio-track="IN",PUNJABI AIKAM TV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48088
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PTC PUNJABI  Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ptcpunjab.png"parent-code=1234" audio-track="IN",PUNJABI PTC PUNJABI 	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48089
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PTC NEWS Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ptcnews.png"parent-code=1234" audio-track="IN",PUNJABI PTC NEWS	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48090
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=LIVING INDIA NEWS Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/LIVINGNEWS.png"parent-code=1234" audio-track="IN",PUNJABI LIVING INDIA NEWS	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48091
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SANJHA TV HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/PUNJABII.png"parent-code=1234" audio-track="IN",PUNJABI SANJHA TV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48092
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PCHS TV HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/PCHSTV.png"parent-code=1234" audio-track="IN",PUNJABI PCHS TV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48093
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=JASHAN TV HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo/default.png"parent-code=1234" audio-track="IN",PUNJABI JASHAN TV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48094
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=PRIME ASIA HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/PrimeAsiaTelevision.png"parent-code=1234" audio-track="IN",PUNJABI PRIME ASIA HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48095
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SSTV HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo/default.png"parent-code=1234" audio-track="IN",PUNJABI SSTV HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48096
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=GLOBAL PUNJABI HD Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/globalpunjab.png"parent-code=1234" audio-track="IN",PUNJABI GLOBAL PUNJABI HD	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48097
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HUNGAMA AMRITVANI Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo/default.png"parent-code=1234" audio-track="IN",PUNJABI HUNGAMA AMRITVANI	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48098
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DESI CHANNEL Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/DESCHANNEL.png"parent-code=1234" audio-track="IN",PUNJABI DESI CHANNEL	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48100
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MANORANJAN TV Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Manoranjan_Movies.png"parent-code=1234" audio-track="IN",PUNJABI MANORANJAN TV	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48122
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NEWS 18 PUNJAB HARYANA Alt" group-title="H.Punjabi NW" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/News_18_India.png"parent-code=1234" audio-track="IN",PUNJABI NEWS 18 PUNJAB HARYANA	 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=MrManiB256478&id=48252
 
-#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="B.Hindi Movies",Sony Max HD 
-	
-#EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="B.Hindi Movies",Star Gold HD 
+
+#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="JIO | Movies",Sony Max HD
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Max_HD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JIO | Movies",Star Gold HD
 http://indtv.online/rc/request/star_gold&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="B.Hindi Movies",Zee Cinema HD 
+
+#EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JIO | Movies",Zee Cinema HD
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Cinema_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="B.Hindi Movies",Colors Cineplex 
+
+#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JIO | Movies",Colors Cineplex
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Colors_Cineplex&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="B.Hindi Movies",&PictureHD	  
+
+#EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="JIO | Movies",And Pictures HD
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=And_Pictures_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="B.Hindi Movies",Jio Bollywood Premium HD 
+
+#EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="JIO | Movies",Jio Bollywood Premium HD
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=EROSNOW_Hindi_Premium&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="B.Hindi Movies",Sony MAX2 
+
+#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="JIO | Movies",Sony MAX2
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_MAX2&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="B.Hindi Movies",Zee Cinema 
+
+#EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="JIO | Movies",Zee Cinema
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Cinema&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="B.Hindi Movies",B4U Movies 
+
+#EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="JIO | Movies",B4U Movies
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=B4U_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="B.Hindi Movies",Zee Bollywood 
+
+#EXTINF:-1 tvg-id="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="JIO | Movies",Zee Bollywood
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Classic&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="B.Hindi Movies",Enterr 10 
+
+#EXTINF:-1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="JIO | Movies",Enterr 10
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Enterr_10&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="B.Hindi Movies",Zee Action 
+
+#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="JIO | Movies",Zee Action
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Action&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="B.Hindi Movies",Zee Anmol Cinema 
+
+#EXTINF:-1 tvg-id="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="JIO | Movies",Zee Anmol Cinema
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Anmol_Cinema&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="946" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="B.Hindi Movies",Pitaara 
+
+#EXTINF:-1 tvg-id="946" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="JIO | Movies",Pitaara
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Pitaara&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="809" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="B.Hindi Movies",Maha Movies 
+
+#EXTINF:-1 tvg-id="809" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="JIO | Movies",Maha Movies
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Maha_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="841" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png" group-title="B.Hindi Movies",Housefull Movies 
+
+#EXTINF:-1 tvg-id="841" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png" group-title="JIO | Movies",Housefull Movies
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Housefull_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="B.Hindi Movies",PTC Punjabi Gold  
+
+#EXTINF:-1 tvg-id="1190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="JIO | Movies",PTC Punjabi Gold 
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Punjabi_Gold&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="B.Hindi Movies",Surya Cinema 
+
+#EXTINF:-1 tvg-id="1258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="JIO | Movies",Surya Cinema
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Surya_Cinema&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1266" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="B.Hindi Movies",Bflix Movies 
+
+#EXTINF:-1 tvg-id="1266" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="JIO | Movies",Bflix Movies
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Bflix_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1268" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="B.Hindi Movies",ABZY Dhakad 
+
+#EXTINF:-1 tvg-id="1268" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="JIO | Movies",ABZY Dhakad
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABZY_Dhakad&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1269" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="B.Hindi Movies",ABZY Cool 
+
+#EXTINF:-1 tvg-id="1269" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="JIO | Movies",ABZY Cool
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABZY_Cool&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1270" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="B.Hindi Movies",ABZY Movies 
+
+#EXTINF:-1 tvg-id="1270" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="JIO | Movies",ABZY Movies
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABZY_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="B.Hindi Movies",Box Cinema 
+
+#EXTINF:-1 tvg-id="1276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="JIO | Movies",Box Cinema
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=BOX_CINEMA&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="B.Hindi Movies",Manoranjan TV 
+
+#EXTINF:-1 tvg-id="1280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="JIO | Movies",Manoranjan TV
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="B.Hindi Movies",Manoranjan Movies 
+
+#EXTINF:-1 tvg-id="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="JIO | Movies",Manoranjan Movies
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="B.Hindi Movies",B4U Kadak 
+
+#EXTINF:-1 tvg-id="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="JIO | Movies",B4U Kadak
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=B4U_Kadak&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="B.Hindi Movies",Rishtey Cineplex 
+
+#EXTINF:-1 tvg-id="1450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="JIO | Movies",Rishtey Cineplex
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Rishtey_Cineplex&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="F.Music",MTV HD Plus 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MTV_HD_Plus&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="F.Music",MTV Beats HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MTV_Beats_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="584" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="F.Music",Mastiii 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Mastiii&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="585" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="F.Music",Zing 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zing&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="587" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="F.Music",9XM 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9XM&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="591" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="F.Music",E 24 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=E_24&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="183" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="F.Music",B4U Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=B4U_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="592" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="F.Music",ZOOM 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ZOOM&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="F.Music",MTV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MTV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="440" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="F.Music",9X Jalwa 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9X_Jalwa&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="F.Music",PTC Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="589" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="F.Music",Zee etc 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=etc&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="250" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="F.Music",Music India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Music_India&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="F.Music",PTC Chak De 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Chak_De&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="F.Music",9X Tashan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9X_Tashan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="F.Music",PTC DHOL TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_DHOL_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="F.Music",mh1 (Music) 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=mh1_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="903" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="F.Music",Only Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Only_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="905" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="F.Music",PBN Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PBN_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1192" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="F.Music",Brit Asia 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Brit_Asia&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1103" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="F.Music",PEACE MUSIC 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PEACE_MUSIC&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="962" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="F.Music",Boogle Bollywood 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Boogle_Bollywood&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1267" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="F.Music",iLove 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=iLove&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="F.Music",Insync 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Insync&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1411" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="F.Music",SongDew TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SongDew_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1441" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="F.Music",Wah Punjabi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Wah_Punjabi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1453" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="F.Music",Balle Balle TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Balle_Balle_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="K.Kids",Nick Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nick_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="K.Kids",Pogo Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Pogo_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="K.Kids",Cartoon Network Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Cartoon_Network_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="K.Kids",Sonic Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=sonic_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="K.Kids",Sony Yay Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Yay_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="K.Kids",Nickelodeon 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nickelodeon&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="K.Kids",CN HD+ English 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CN_HD_English&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="K.Kids",Discovery Kids 2 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery_Kids_2&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="K.Kids",Nick Junior 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nick_Junior&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="K.Kids",Testton 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Toonami&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="K.Kids",Nickelodeon Jr. 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nickelodeon_Jr&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="K.Kids",Highbrow 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Highbrow&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="K.Kids",Nick HD+ 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nick_HD_Plus&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="K.Kids",Jio KIDS 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_KIDS&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="I.Sports",Sony Six HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Six_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="I.Sports",Ten 1 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="I.Sports",Ten 2 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten2_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="I.Sports",Ten 3 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten3_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="I.Sports",Eurosport HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Dsports_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="I.Sports",Jio Football HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Football&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1160" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="I.Sports",Jio Cricket 1 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="I.Sports",Jio Football 1 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Football_1&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="I.Sports",Jio Football 2 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Football_2&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="I.Sports",Ten 1 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_1&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="523" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="I.Sports",Ten 2 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_2&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="I.Sports",Ten 3 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_3&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="I.Sports",Sony Six SD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Six_SD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="I.Sports",DD Sports 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Sports&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="I.Sports",Eurosport 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Dsports&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="I.Sports",1Sports 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=1Sports&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="I.Sports",MI TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MI_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="463" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="J.Infotainment",Discovery HD World 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery_HD_World&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="821" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="J.Infotainment",Sony BBC Earth HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="J.Infotainment",History TV18 HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=History_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="286" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="J.Infotainment",Animal Planet HD World 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Animal_Planet_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="J.Infotainment",Travel XP HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Travel_XP_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="J.Infotainment",Animal Planet Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Animal_Planet_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="575" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="J.Infotainment",Discovery Channel Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery_Channel_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="J.Infotainment",History TV18 HD Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=History_18_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="568" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="J.Infotainment",Discovery Science 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery_Science&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="871" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="J.Infotainment",Jio Events HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Events&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="567" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="J.Infotainment",Animal Planet English 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Animal_Planet_English&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="242" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="J.Infotainment",Discovery 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="906" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="J.Infotainment",Desi Channel 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Desi_Channel&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="583" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="J.Infotainment",DD Kisan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Kisan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="541" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="J.Infotainment",Discovery Turbo 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery_Turbo&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="852" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="J.Infotainment",Sony BBC Earth HD English 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="580" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="J.Infotainment",DD bharati 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_bharati&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="582" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="J.Infotainment",Care World 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Care_World&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="888" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="J.Infotainment",Insight 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Insight&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1265" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" group-title="J.Infotainment",Global Sanjh 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Global_Sanjh&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="J.Infotainment",YTV India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=YTV_INDIA&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="479" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="G.Lifestyle",TLC HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TLC_HD_World&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="G.Lifestyle",Food Food 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Food_Food&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" group-title="G.Lifestyle",GOOD TiMES 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=NDTV_Good_Times&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="562" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="G.Lifestyle",Travel XP HD Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Travel_XP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="574" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="G.Lifestyle",TLC English 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TLC_English&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="571" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="G.Lifestyle",TLC Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TLC_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AstroFlix.png" group-title="G.Lifestyle",AstroFlix 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=AstroFlix&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1225" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" group-title="G.Lifestyle",Click Life 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Click_Life&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1290" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" group-title="G.Lifestyle",Stars Tell 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=StarTell&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="G.Lifestyle",Wellness 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Wellness_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="H.Punjabi",PTC Punjabi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Punjabi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="H.Punjabi",PTC Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="906" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="H.Punjabi",Desi Channel 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Desi_Channel&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="609" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="H.Punjabi",mh1 Shraddha 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=mh1_Shraddha&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1191" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="H.Punjabi",PTC Simran 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Simran&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="904" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="H.Punjabi",Sanjha TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sanjha_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="951" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png" group-title="H.Punjabi",Garv Punjabi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=GarvPunjabi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="959" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="H.Punjabi",JUSPunjabi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUSPunjabi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="715" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="H.Punjabi",DD Punjabi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Punjabi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="946" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="H.Punjabi",Pitaara 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Pitaara&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="H.Punjabi",PTC Punjabi Gold 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Punjabi_Gold&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="H.Punjabi",PTC Chak De 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Chak_De&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="H.Punjabi",9X Tashan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9X_Tashan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="H.Punjabi",PTC DHOL TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_DHOL_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="H.Punjabi",mh1 (Music) 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=mh1_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="903" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="H.Punjabi",Only Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Only_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="905" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="H.Punjabi",PBN Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PBN_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="H.Punjabi",Steelbird Music 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Steelbird_Music&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="952" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.jpg" group-title="H.Punjabi",Garv Punjabi Gurbani 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=GarvGurbani&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1174" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png" group-title="H.Punjabi",Fateh TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Fateh_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" group-title="H.Punjabi",JUSOne 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUSOne&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="H.Punjabi",Zee Punjabi HP Haryana 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Punjabi_HP_Haryana&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="H.Punjabi",Chardikla Time TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Chardikla_Time_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="H.Punjabi",PTC News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="960" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="H.Punjabi",JUS 24x7 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUS24x7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Akal_Academy_Group.png" group-title="H.Punjabi",Akal Academy Group 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Akal_Academy_Group&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1230" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VR_360.png" group-title="H.Punjabi",PTC VR 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=VR_360&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1265" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" group-title="H.Punjabi",Global Sanjh 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Global_Sanjh&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="H.Punjabi",Manoranjan Movies 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_Movies&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="H.Punjabi",ABP Sanjha 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_Sanjha&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" group-title="H.Punjabi",Takht Sri Patna Sahib - Patna 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sri_Patna_Sahib&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="D.English Enter.",Jio Exclusive HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Exclusive&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="D.English Enter.",Comedy Central HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Comedy_Central_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="D.English Enter.",Colors Infinity HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Colors_Infinity_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="D.English Enter.",The Q India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=QYOUHD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="D.English Enter.",Hi Dost! 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Hi_Dost&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="D.English Enter.",HBO HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=HBO_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="D.English Enter.",Pix HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Pix_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="E.English Movies",Sony Pix HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Pix_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="D.English Enter.",WB 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=WB&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="151" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="D.English Enter.",Movies Now HD 
-http://indtv.online/rc/request/Movies_Now_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="877" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="D.English Enter.",MNX HD 
-http://indtv.online/rc/request/Movies_Now2_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="D.English Enter.",MN+ HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MNPLUS&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2.png" group-title="D.English Enter.",MNX 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Movies_Now2&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="D.English Enter.",Romedy Now HD 
-http://indtv.online/rc/request/Romedy_Now_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="6_23" tvg-name=BBC News Hindi" 				group-title="L.News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png",BBC News  
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=----&c=BBC_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="6_24" tvg-name=BBC World" 					group-title="L.News" tvg-logo="http://files.rednetcontent.com/chlogo2/Balkans/ajb-sm_13.png",BBC World 
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=----&id=46570
-#EXTINF:-1 tvg-id="6_25" tvg-name=Skynews" 						group-title="L.News" tvg-logo="http://files.rednetcontent.com/chlogo2/english/imagen-rte-news-now-0big.png",Skynews 
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1 tvg-id="173" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="L.News",Aaj Tak 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Aaj_Tak&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="L.News",ABP News India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_News_India&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="L.News",News 18 India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=IBN_7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="L.News",India TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="L.News",NDTV India 
-http://indtv.online/rc/request/NDTV_India&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="L.News",Zee News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="501" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="L.News",News 24 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_24&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="L.News",News Nation 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_Nation&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="498" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="L.News",India news 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_news&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="502" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="L.News",Tez 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Tez&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="531" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="L.News",News18 RAJASTHAN 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_RAJASTHAN&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="513" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="L.News",India News Rajasthan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_Rajasthan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="659" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="L.News",Zee Rajasthan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Rajasthan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="793" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="L.News",Samay Rajasthan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Samay_Rajasthan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="926" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png" group-title="L.News",A1 TV Rajasthan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=A1_TV_Rajasthan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="880" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="L.News",Janta TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Janta_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="L.News",News State UK UP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_State_UK_UP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="L.News",News18 MP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_MP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="770" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="L.News",Kashish News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Kashish_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="L.News",Zee News MP Chattisgarh 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_News_MP_Chattisgarh&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="L.News",IBC-24 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=IBC-24&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="L.News",News18 UP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_UP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="203" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="L.News",DD News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="512" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="L.News",India News UP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_UP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="768" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="L.News",Jan TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jan_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="516" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="L.News",India News Haryana 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_Haryana&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="509" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="L.News",Sahara Samay Bihar 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sahara_Samay_Bihar&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="L.News",Zee Hindustan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_SANGAM&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="808" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="L.News",Hindi Khabar 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Hindi_Khabar&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="L.News",Zee Punjabi HP Haryana 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Punjabi_HP_Haryana&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="927" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="L.News",First India News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=First_India_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="882" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" group-title="L.News",News11 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News11&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="507" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="L.News",SAHARA SAMAY MP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SAHARA_SAMAY_MP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="L.News",India News MP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_MP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="572" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="L.News",Zee UP UK 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Living_Foodz&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="L.News",Chardikla Time TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Chardikla_Time_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="518" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="L.News",Sudarshan 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sudarshan&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="789" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="L.News",JK 24x7 News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JK_24x7_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="L.News",PTC News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="791" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="L.News",Taaza TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Taaza_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="L.News",Live Today 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Live_Today&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="506" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="L.News",Sahara Samay Rastriya 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sahara_Samay_Rastriya&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="511" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="L.News",Mh One News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Mh_One_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="655" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="L.News",News18 Haryana and HP News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_Haryana_and_HP_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="855" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="L.News",Total TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Total_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="508" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="L.News",SAHARA SAMAY UP 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SAHARA_SAMAY_UP&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="918" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="L.News",Bharat Samachar 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Bharat_Samachar&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="783" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="L.News",K News India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=K_News_India&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="522" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="L.News",Loksabha TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Loksabha_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="520" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="L.News",DD Rajyasabha 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Rajyasabha&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="936" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_1_India.png" group-title="L.News",News 1 India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_1_India&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="917" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png" group-title="L.News",APN News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=APN_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="916" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" group-title="L.News",TV 100 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TV_100&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1179" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="L.News",Bansal News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Bansal_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="788" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="L.News",India Voice 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_Voice&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="957" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" group-title="L.News",INH 24x7 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=INH_24x7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="850" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="L.News",News India 24x7 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_India_24_X_7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="831" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="L.News",Living India News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Living_India_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="851" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="L.News",SMBC TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SMBC_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="519" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="L.News",Sadhna News Plus 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sadhna_News_Plus&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="621" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" group-title="L.News",News World India 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_World_India&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="921" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png" group-title="L.News",Prime News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Prime_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="966" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png" group-title="L.News",Prudent 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PrudentHD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="915" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" group-title="L.News",Khabar Fast 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Khabar_Fast&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="960" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="L.News",JUS 24x7 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUS24x7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="920" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_One_News.png" group-title="L.News",Channel One News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Channel_One_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="974" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HNN_24x7.png" group-title="L.News",HNN 24x7 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=HNN_24x7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="L.News",DNN 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DNN&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="975" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" group-title="L.News",Jantantra 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jantantra&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1205" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="L.News",ABP Ganga 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_Ganga&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" group-title="L.News",TV9 Bharatvarsh 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TV9_BHARATVARSH&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1257" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="L.News",Surya Samachar 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Surya_Samachar&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1263" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="L.News",Total Tv Haryana 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Total_Tv_Haryana&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1287" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="L.News",ANB News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ANB_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="L.News",ABP Sanjha 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_Sanjha&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1431" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="L.News",BBC News Hindi 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=BBC_Hindi&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="L.News",9 Bharat Samachar 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9_Bharat_Samachar&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="N.English News",Times NOW 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Times_NOW&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="N.English News",CNN NEWS 18 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNN_NEWS_18&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="N.English News",Republic TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Republic_TV&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="876" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png" group-title="N.English News",Times Now World 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Times_Now_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png" group-title="N.English News",NDTV 24x7 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=NDTV_24x7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="493" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="N.English News",India Today 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_Today&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="N.English News",BBC World News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=BBC_World_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="N.English News",News X 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_X&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" group-title="N.English News",Mirror Now 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Magic_bricks_Now&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="193" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="N.English News",CNN 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNN&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="494" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="N.English News",AL Jazeera 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=AL_Jazeera&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="N.English News",Wion 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Wion&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="496" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="N.English News",dw 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=dw&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="885" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="N.English News",TV5 Monde 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TV_5_Monde&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="656" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_9.png" group-title="N.English News",News 9 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_9&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="907" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="N.English News",GoodNews Channel 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=GoodNews_Channel&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="764" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="N.English News",Channel News Asia International 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Channel_News_Asia_International&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="421" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Goa365.png" group-title="N.English News",GOA 365 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Goa365&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="837" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="N.English News",Euro News 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Euro_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1102" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RDX_News.png" group-title="N.English News",RDX Goa 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=RDX_News&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="787" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="N.English News",CVR English 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CVR_English&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="1338" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="N.English News",RT TV 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=RT_TV&q=1200&e=.m3u8 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Nepal_one&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="L.News",Zee Business 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Business&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="L.News",CNBC Tv18 Prime HD 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNBC_Tv18_Prime_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="L.News",NDTV Profit 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=NDTV_Profit&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="L.News",CNBC Awaaz 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNBC_Awaaz&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="L.News",CNBC Tv 18 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CNBC_Tv_18&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="212" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png" group-title="L.News",ET Now 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ET_Now&q=1200&e=.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR WORLD HD.." 			group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARWORLDS.png"parent-code=1234" 								audio-track="IN",STAR WORLD HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47858
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR MOVIES HD.." 			group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARMOV\u0130ESHD...png"parent-code=1234" 							audio-track="IN",STAR MOVIES HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47859
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR WORLD PREMIER HD.." 	group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/starworldpremer.png"parent-code=1234" 							audio-track="IN",STAR WORLD PREMIER HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47860
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=STAR MOVIES SELECT HD.." 	group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star-Movies-Select-HD.._8.png"parent-code=1234" 					audio-track="IN",STAR MOVIES SELECT HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47861
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=FOX LIFE HD.." 				group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Fox_life_HD..1.png"parent-code=1234" 									audio-track="IN",FOX LIFE HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47863
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=AXN HD.." 					group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/engl\u0131shaxn12.png"parent-code=1234" 							audio-track="IN",AXN HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47864
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HBO HD.." 					group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HBOHD...png"parent-code=1234" 										audio-track="IN",HBO HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47866
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TATA SKY WORLD CINEMA HD.." group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TLCHD...png"parent-code=1234" 										audio-track="IN",TATA SKY WORLD CINEMA HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47867
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=COMEDY CENTRAL HD.." 		group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/comedycentral.png"parent-code=1234" 							audio-track="IN",COMEDY CENTRAL HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47872
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ROMEDY NOW HD.." 			group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/romedynow.png"parent-code=1234" 								audio-track="IN",ROMEDY NOW HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47875
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=AND PRIVE HD.." 			group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/PR\u0130VEHD...png"parent-code=1234" 								audio-track="IN",AND PRIVE HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47879
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=COLORS INFINITY HD.." 		group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Colors-Infinity-logo.png"parent-code=1234" 							audio-track="IN",COLORS INFINITY HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47880
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ZEE CAFE HD.." 				group-title="ENGLISH Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeecafeHD.._1363288667.png"parent-code=1234" 							audio-track="IN",ENGLISH ZEE CAFE HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47862
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY TURBO" 			group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/discovery-turbo-logo-300x160.png"parent-code=1234" 					audio-track="IN",DISCOVERY TURBO
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47884
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NATGEO ENGLISH HD.." 		group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/national-geographic-logo-png--1900.png"parent-code=1234" 			audio-track="IN",NATGEO ENGLISH HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47865
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ANIMAL PLANET HD.." 		group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png"parent-code=1234" 										audio-track="IN",ANIMAL PLANET HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47868
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BBC EARTH HD.." 			group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/BBCEarthlogo.png"parent-code=1234" 								audio-track="IN",BBC EARTH HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47869
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=HISTORY TV 18 HD.." 		group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/150px-History_TV18_logo.png"parent-code=1234" 					audio-track="IN",HISTORY TV 18 HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47870
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NAT GEO WILD HD.." 			group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Logo_Nat_Geo_Wild.svg.png"parent-code=1234" 							audio-track="IN",NAT GEO WILD HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47873
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TLC WORLD HD.." 			group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo/TLClogo.png"parent-code=1234" 											audio-track="IN",TLC WORLD HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47876
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY WORLD HD.." 		group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo/Discovery_World_Latinoamerica_alternative.png"parent-code=1234" 				audio-track="IN",DISCOVERY WORLD HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47878
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=DISCOVERY SCIENCE" 		group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo/Osn-Discovery-Science.png"parent-code=1234" 								audio-track="IN",DISCOVERY SCIENCE
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47886
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=TRAVEL XP HD.." 			group-title="Infotainment"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/LOGO-CANALE.png"parent-code=1234" 								audio-track="IN",TRAVEL XP HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47881
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=VH1 HD.." 					group-title="Music" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ENGLSHVH1.png"parent-code=1234" 											audio-track="IN",ENGLISH VH1 HD..
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=47871
-#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MOVIES HINDI DUBBED" 	    group-title="Hindi Movies"tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ndtv-logo.png"parent-code=1234" 										audio-track="IN",MOVIES HINDI DUBBED
-http://tamilgo.com/api1cdn/str7/tatair.php?uid=MrManiB256478&id=14129
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JIO | Entertainment",Colors HD
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Colors_HD&q=1200&e=.m3u8
@@ -1266,86 +503,238 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Dhamaal_TV&q=12
 #EXTINF:-1 tvg-id="1279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="JIO | Entertainment",Manoranjan Grand
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_Grand&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="JIO | Movies",Sony Max HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Max_HD&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="JIO | Movies",Star Gold HD
-http://indtv.online/rc/request/star_gold&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JIO | Movies",Zee Cinema HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Cinema_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="173" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="JIO | News",Aaj Tak
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Aaj_Tak&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JIO | Movies",Colors Cineplex
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Colors_Cineplex&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="JIO | News",ABP News India
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_News_India&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="JIO | Movies",And Pictures HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=And_Pictures_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="231" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JIO | News",News 18 India
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=IBN_7&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="JIO | Movies",Jio Bollywood Premium HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=EROSNOW_Hindi_Premium&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="235" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="JIO | News",India TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_TV&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="JIO | Movies",Sony MAX2
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_MAX2&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="JIO | News",NDTV India
+http://indtv.online/rc/request/NDTV_India&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="JIO | Movies",Zee Cinema
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Cinema&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="JIO | News",Zee News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_News&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="JIO | Movies",B4U Movies
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=B4U_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="501" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="JIO | News",News 24
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_24&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="487" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="JIO | Movies",Zee Bollywood
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Classic&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="JIO | News",News Nation
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_Nation&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="JIO | Movies",Enterr 10
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Enterr_10&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="498" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="JIO | News",India news
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_news&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="JIO | Movies",Zee Action
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Action&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="502" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="JIO | News",Tez
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Tez&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="415" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="JIO | Movies",Zee Anmol Cinema
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Anmol_Cinema&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="531" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="JIO | News",News18 RAJASTHAN
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_RAJASTHAN&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="946" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="JIO | Movies",Pitaara
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Pitaara&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="513" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="JIO | News",India News Rajasthan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_Rajasthan&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="809" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="JIO | Movies",Maha Movies
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Maha_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="659" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="JIO | News",Zee Rajasthan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Rajasthan&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="841" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png" group-title="JIO | Movies",Housefull Movies
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Housefull_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="793" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="JIO | News",Samay Rajasthan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Samay_Rajasthan&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="JIO | Movies",PTC Punjabi Gold 
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Punjabi_Gold&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="926" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png" group-title="JIO | News",A1 TV Rajasthan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=A1_TV_Rajasthan&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="JIO | Movies",Surya Cinema
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Surya_Cinema&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="880" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_TV.png" group-title="JIO | News",Janta TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Janta_TV&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1266" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="JIO | Movies",Bflix Movies
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Bflix_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="792" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="JIO | News",News State UK UP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_State_UK_UP&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1268" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="JIO | Movies",ABZY Dhakad
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABZY_Dhakad&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="529" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="JIO | News",News18 MP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_MP&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1269" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="JIO | Movies",ABZY Cool
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABZY_Cool&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="770" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="JIO | News",Kashish News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Kashish_News&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1270" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="JIO | Movies",ABZY Movies
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABZY_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="658" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="JIO | News",Zee News MP Chattisgarh
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_News_MP_Chattisgarh&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="JIO | Movies",Box Cinema
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=BOX_CINEMA&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="503" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="JIO | News",IBC-24
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=IBC-24&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="JIO | Movies",Manoranjan TV
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_TV&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="530" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="JIO | News",News18 UP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_UP&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="JIO | Movies",Manoranjan Movies
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_Movies&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="203" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="JIO | News",DD News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_News&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1295" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="JIO | Movies",B4U Kadak
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=B4U_Kadak&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="512" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="JIO | News",India News UP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_UP&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="1450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="JIO | Movies",Rishtey Cineplex
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Rishtey_Cineplex&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="768" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="JIO | News",Jan TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jan_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="516" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="JIO | News",India News Haryana
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_Haryana&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="509" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="JIO | News",Sahara Samay Bihar
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sahara_Samay_Bihar&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="652" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="JIO | News",Zee Hindustan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_SANGAM&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="808" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="JIO | News",Hindi Khabar
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Hindi_Khabar&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="JIO | News",Zee Punjabi HP Haryana
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Punjabi_HP_Haryana&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="927" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="JIO | News",First India News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=First_India_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="882" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" group-title="JIO | News",News11
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News11&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="507" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="JIO | News",SAHARA SAMAY MP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SAHARA_SAMAY_MP&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="JIO | News",India News MP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_News_MP&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="572" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="JIO | News",Zee UP UK
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Living_Foodz&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="JIO | News",Chardikla Time TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Chardikla_Time_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="518" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="JIO | News",Sudarshan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sudarshan&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="789" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="JIO | News",JK 24x7 News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JK_24x7_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="JIO | News",PTC News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="791" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="JIO | News",Taaza TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Taaza_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="771" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="JIO | News",Live Today
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Live_Today&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="506" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="JIO | News",Sahara Samay Rastriya
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sahara_Samay_Rastriya&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="511" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="JIO | News",Mh One News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Mh_One_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="JIO | News",News18 Haryana and HP News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ETV_Haryana_and_HP_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="855" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="JIO | News",Total TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Total_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="508" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="JIO | News",SAHARA SAMAY UP
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SAHARA_SAMAY_UP&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="918" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="JIO | News",Bharat Samachar
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Bharat_Samachar&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="783" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="JIO | News",K News India
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=K_News_India&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="522" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="JIO | News",Loksabha TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Loksabha_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="520" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="JIO | News",DD Rajyasabha
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Rajyasabha&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="936" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_1_India.png" group-title="JIO | News",News 1 India
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_1_India&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="917" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png" group-title="JIO | News",APN News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=APN_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="916" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" group-title="JIO | News",TV 100
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TV_100&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1179" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="JIO | News",Bansal News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Bansal_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="788" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="JIO | News",India Voice
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=India_Voice&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="957" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" group-title="JIO | News",INH 24x7
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=INH_24x7&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="850" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="JIO | News",News India 24x7
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_India_24_X_7&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="831" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="JIO | News",Living India News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Living_India_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="851" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="JIO | News",SMBC TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=SMBC_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="519" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="JIO | News",Sadhna News Plus
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sadhna_News_Plus&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="621" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png" group-title="JIO | News",News World India
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=News_World_India&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="921" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png" group-title="JIO | News",Prime News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Prime_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="966" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png" group-title="JIO | News",Prudent
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PrudentHD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="915" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" group-title="JIO | News",Khabar Fast
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Khabar_Fast&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="960" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="JIO | News",JUS 24x7
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUS24x7&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="920" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Channel_One_News.png" group-title="JIO | News",Channel One News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Channel_One_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="974" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HNN_24x7.png" group-title="JIO | News",HNN 24x7
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=HNN_24x7&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="958" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="JIO | News",DNN
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DNN&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="975" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" group-title="JIO | News",Jantantra
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jantantra&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1205" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="JIO | News",ABP Ganga
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_Ganga&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1251" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" group-title="JIO | News",TV9 Bharatvarsh
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=TV9_BHARATVARSH&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1257" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="JIO | News",Surya Samachar
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Surya_Samachar&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1263" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="JIO | News",Total Tv Haryana
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Total_Tv_Haryana&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1287" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="JIO | News",ANB News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ANB_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="JIO | News",ABP Sanjha
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_Sanjha&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1431" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="JIO | News",BBC News Hindi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=BBC_Hindi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1451" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="JIO | News",9 Bharat Samachar
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9_Bharat_Samachar&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JIO | Music",MTV HD Plus
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MTV_HD_Plus&q=1200&e=.m3u8
@@ -1428,56 +817,6 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Wah_Punjabi&q=1
 #EXTINF:-1 tvg-id="1453" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="JIO | Music",Balle Balle TV
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Balle_Balle_TV&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="JIO | Sports",Sony Six HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Six_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="JIO | Sports",Ten 1 HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="JIO | Sports",Ten 2 HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten2_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="JIO | Sports",Ten 3 HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten3_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="JIO | Sports",Eurosport HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Dsports_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1156" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="JIO | Sports",Jio Football HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Football&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1160" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="JIO | Sports",Jio Cricket 1 HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="JIO | Sports",Jio Football 1 HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Football_1&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="JIO | Sports",Jio Football 2 HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Football_2&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="JIO | Sports",Ten 1
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_1&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="523" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="JIO | Sports",Ten 2
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_2&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="JIO | Sports",Ten 3
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Ten_3&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="525" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="JIO | Sports",Sony Six SD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Six_SD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="204" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="JIO | Sports",DD Sports
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Sports&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1294" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="JIO | Sports",Eurosport
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Dsports&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1425" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="JIO | Sports",1Sports
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=1Sports&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="JIO | Sports",MI TV
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MI_TV&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="463" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JIO | Infotainment",Discovery HD World
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Discovery_HD_World&q=1200&e=.m3u8
@@ -1572,48 +911,99 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=StarTell&q=1200
 #EXTINF:-1 tvg-id="1292" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="JIO | Lifestyle",Wellness
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Wellness_TV&q=1200&e=.m3u8
 
+#EXTINF:-1 tvg-id="1171" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="JIO | Punjabi",PTC Punjabi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Punjabi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1189" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="JIO | Punjabi",PTC Music
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="906" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="JIO | Punjabi",Desi Channel
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Desi_Channel&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="609" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="JIO | Punjabi",mh1 Shraddha
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=mh1_Shraddha&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1191" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="JIO | Punjabi",PTC Simran
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Simran&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="904" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="JIO | Punjabi",Sanjha TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sanjha_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="951" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png" group-title="JIO | Punjabi",Garv Punjabi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=GarvPunjabi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="959" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="JIO | Punjabi",JUSPunjabi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUSPunjabi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="715" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="JIO | Punjabi",DD Punjabi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=DD_Punjabi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="946" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="JIO | Punjabi",Pitaara
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Pitaara&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="JIO | Punjabi",PTC Punjabi Gold
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Punjabi_Gold&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1172" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="JIO | Punjabi",PTC Chak De
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_Chak_De&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="732" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="JIO | Punjabi",9X Tashan
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=9X_Tashan&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1188" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="JIO | Punjabi",PTC DHOL TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_DHOL_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="742" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="JIO | Punjabi",mh1 (Music)
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=mh1_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="903" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="JIO | Punjabi",Only Music
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Only_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="905" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="JIO | Punjabi",PBN Music
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PBN_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1184" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="JIO | Punjabi",Steelbird Music
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Steelbird_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="952" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.jpg" group-title="JIO | Punjabi",Garv Punjabi Gurbani
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=GarvGurbani&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1174" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png" group-title="JIO | Punjabi",Fateh TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Fateh_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="961" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" group-title="JIO | Punjabi",JUSOne
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUSOne&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="654" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="JIO | Punjabi",Zee Punjabi HP Haryana
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Zee_Punjabi_HP_Haryana&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="517" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="JIO | Punjabi",Chardikla Time TV
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Chardikla_Time_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1170" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="JIO | Punjabi",PTC News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=PTC_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="960" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="JIO | Punjabi",JUS 24x7
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=JUS24x7&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Akal_Academy_Group.png" group-title="JIO | Punjabi",Akal Academy Group
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Akal_Academy_Group&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1230" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/VR_360.png" group-title="JIO | Punjabi",PTC VR
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=VR_360&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1265" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" group-title="JIO | Punjabi",Global Sanjh
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Global_Sanjh&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="JIO | Punjabi",Manoranjan Movies
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Manoranjan_Movies&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="JIO | Punjabi",ABP Sanjha
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=ABP_Sanjha&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="1317" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" group-title="JIO | Punjabi",Takht Sri Patna Sahib - Patna
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sri_Patna_Sahib&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="JIO | English Entertainment",Jio Exclusive HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Jio_Exclusive&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JIO | English Entertainment",Comedy Central HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Comedy_Central_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JIO | English Entertainment",Colors Infinity HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Colors_Infinity_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1066" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="JIO | English Entertainment",The Q India
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=QYOUHD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="1232" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="JIO | English Entertainment",Hi Dost!
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Hi_Dost&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="JIO | English Entertainment",HBO HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=HBO_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="JIO | English Entertainment",Sony Pix HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Sony_Pix_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="834" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="JIO | English Entertainment",WB
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=WB&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="151" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="JIO | English Entertainment",Movies Now HD
-http://indtv.online/rc/request/Movies_Now_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="877" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="JIO | English Entertainment",MNX HD
-http://indtv.online/rc/request/Movies_Now2_HD&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="JIO | English Entertainment",MN+ HD
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=MNPLUS&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="462" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2.png" group-title="JIO | English Entertainment",MNX
-http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Movies_Now2&q=1200&e=.m3u8
-
-#EXTINF:-1 tvg-id="478" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="JIO | English Entertainment",Romedy Now HD
-http://indtv.online/rc/request/Romedy_Now_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="JIO | English News",Times NOW
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=Times_NOW&q=1200&e=.m3u8
@@ -1680,3 +1070,166 @@ http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=CVR_English&q=1
 
 #EXTINF:-1 tvg-id="1338" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="JIO | English News",RT TV
 http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=MrManiB256478&c=RT_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sony TV HD	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/SONY_TV_HD.jpg"parent-code=1234" audio-track="IN",Sony TV HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=55553451&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Plus ME	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg"parent-code=1234" audio-track="IN",Star Plus ME
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Set Max HD	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/SET_MAX_HD_TV.jpg"parent-code=1234" audio-track="IN",Set Max HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=17959459&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors ME	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-me.jpg"parent-code=1234" audio-track="IN",Colors ME
+	
+#EXTINF:-1 tvg-id="SunTV.in" tug-name=Colors APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-apac.jpg"parent-code=1234" audio-track="IN",Colors APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77773	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors Rishtey Asia	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_ASIA_TV.jpg"parent-code=1234" audio-track="IN",Colors Rishtey Asia
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77791	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors UK HD	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_UK_HD_TV.jpg"parent-code=1234" audio-track="IN",Colors UK HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=72164639&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors Cineplex UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg"parent-code=1234" audio-track="IN",Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=87765200&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors Cineplex	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_TV.jpg"parent-code=1234" audio-track="IN",Colors Cineplex
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77786	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors Rishtey	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_TV.jpg"parent-code=1234" audio-track="IN",Colors Rishtey
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=30736995&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors Rishtey APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_APAC_TV.jpg"parent-code=1234" audio-track="IN",Colors Rishtey APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77771&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BBO US	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo-us.jpg"parent-code=1234" audio-track="IN",BBO US
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=112656656&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Plus UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg"parent-code=1234" audio-track="IN",Star Plus UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=97396328&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Bharat ME	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-me.jpg"parent-code=1234" audio-track="IN",Star Bharat ME
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Bharat UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-uk.jpg"parent-code=1234" audio-track="IN",Star Bharat UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=47235083&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Plus APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg"parent-code=1234" audio-track="IN",Star Plus APAC
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Star Bharat APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="
+https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-aud.jpg"parent-code=1234" audio-track="IN",Star Bharat APAC
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Apka Colors	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/apka-colors.jpg"parent-code=1234" audio-track="IN",Apka Colors
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77777	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors cineplex SG	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_SG.jpg"parent-code=1234" audio-track="IN",Colors cineplex SG
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee Anmol	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee_anmol_new.jpg"parent-code=1234" audio-track="IN",Zee Anmol
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Colors Rishtey CAD	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_Americas_TV.jpg"parent-code=1234" audio-track="IN",Colors Rishtey CAD
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=And TV ME	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/and-tv-me.jpg"parent-code=1234" audio-track="IN",And TV ME
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=WOW Kidz-Hindi	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-new-hindi.jpg"parent-code=1234" audio-track="IN",WOW Kidz-Hindi
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=22148014&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sony Entertainment UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-entertainment-uk.jpg"parent-code=1234" audio-track="IN",Sony Entertainment UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77775	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sony Entertainment APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-entertainment-aud.jpg"parent-code=1234" audio-track="IN",Sony Entertainment APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77778	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SAB UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sab-uk.jpg"parent-code=1234" audio-track="IN",SAB UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=92891823&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=SAB APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sab-aud.jpg"parent-code=1234" audio-track="IN",SAB APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77779	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Set Max UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-new-max-uk.jpg"parent-code=1234" audio-track="IN",Set Max UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77772	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Set Max APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-max.jpg"parent-code=1234" audio-track="IN",Set Max APAC
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee TV APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-apac.jpg"parent-code=1234" audio-track="IN",Zee TV APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77780	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee TV HD APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zeetv-new-hd.jpg"parent-code=1234" audio-track="IN",Zee TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77781	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee TV ME	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-me.jpg"parent-code=1234" audio-track="IN",Zee TV ME
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee Cinema HD APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg"parent-code=1234" audio-track="IN",Zee Cinema HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=25027946&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=And TV HD APAC	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/And-Tv-HD.jpg"parent-code=1234" audio-track="IN",And TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=20258450&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee Bollywood	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Bollywood_TV.jpg"parent-code=1234" audio-track="IN",Zee Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=58264595&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee Action	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-action-new.jpg"parent-code=1234" audio-track="IN",Zee Action
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=33819332&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee ETC Bollywood	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_ETC_Bollywood_TV.jpg"parent-code=1234" audio-track="IN",Zee ETC Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=88388434&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BBO	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg"parent-code=1234" audio-track="IN",BBO
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=22429656&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BBO UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo-uk.jpg"parent-code=1234" audio-track="IN",BBO UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=2121222&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=BBO Classic	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/BBO-Classic.jpg"parent-code=1234" audio-track="IN",BBO Classic
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=63887852&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=MTV India	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mtv-india.jpg"parent-code=1234" audio-track="IN",MTV India
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=55205650&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Music India	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/music-india.jpg"parent-code=1234" audio-track="IN",Music India
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77848745&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Songdew	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/songdew-tv.jpg"parent-code=1234" audio-track="IN",Songdew
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=99406208&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zoom UK	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zoom-uk.jpg"parent-code=1234" audio-track="IN",Zoom UK
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zoom	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zoom.jpg"parent-code=1234" audio-track="IN",Zoom
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=85315555&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Hare Krishna TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/hare-krishna-tv.jpg"parent-code=1234" audio-track="IN",Hare Krishna TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=80070899&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=9XM	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/9xm.jpg"parent-code=1234" audio-track="IN",9XM
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=34576682&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=9X Jalwa	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/9x-jalwa.jpg"parent-code=1234" audio-track="IN",9X Jalwa
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=94916297&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zing TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zing-tv.jpg"parent-code=1234" audio-track="IN",Zing TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=24108312&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sangeet Bhojpuri	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sangeet-bhojpuri.jpg"parent-code=1234" audio-track="IN",Sangeet Bhojpuri
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=19886885&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Brahma Kumaris	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/brahma-kumaris.jpg"parent-code=1234" audio-track="IN",Brahma Kumaris
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=87801719&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=ABP News	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/abp-news.jpg"parent-code=1234" audio-track="IN",ABP News
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=79505525&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Tez TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tez-tv.jpg"parent-code=1234" audio-track="IN",Tez TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=77769820&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NDTV INDIA	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-india.jpg"parent-code=1234" audio-track="IN",NDTV INDIA
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=11953344&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sanskar TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sanskar-tv.jpg"parent-code=1234" audio-track="IN",Sanskar TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=19874207&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Satsang TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Satsang_TV.jpg"parent-code=1234" audio-track="IN",Satsang TV
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Krishna Vani	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Krishna_Vani_Tv.jpg"parent-code=1234" audio-track="IN",Krishna Vani
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=67411742&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Aajtak	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/aajtak.jpg"parent-code=1234" audio-track="IN",Aajtak
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=49893677&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Vedic	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/vedic.jpg"parent-code=1234" audio-track="IN",Vedic
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=44744432&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Peace of Mind	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Peace_of_Mind_TV.jpg"parent-code=1234" audio-track="IN",Peace of Mind
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=61111070&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee News	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-news.jpg"parent-code=1234" audio-track="IN",Zee News
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=IIT JEE Crash Course	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Crash_Course_IIT-JEE_TV.jpg"parent-code=1234" audio-track="IN",IIT JEE Crash Course
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=NEET Crash Course	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Crash_Course_NEET_TV.jpg"parent-code=1234" audio-track="IN",NEET Crash Course
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Zee Business	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-business.jpg"parent-code=1234" audio-track="IN",Zee Business
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=YuppTV Live	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/yupptv-demo.jpg"parent-code=1234" audio-track="IN",YuppTV Live
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Samay	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay.jpg"parent-code=1234" audio-track="IN",Samay
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=86078116&e=.m3u8	
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Samay UP	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-up.jpg"parent-code=1234" audio-track="IN",Samay UP
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=76296846&e=.m3u8	
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Samay Rajasthan	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-rajasthan.jpg"parent-code=1234" audio-track="IN",Samay Rajasthan
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=23358900&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Samay Bihar	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-bihar.jpg"parent-code=1234" audio-track="IN",Samay Bihar
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=39889655&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Sudarshan News	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sudarshan-news.jpg"parent-code=1234" audio-track="IN",Sudarshan News
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=23908330&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Samay Aalami	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-aalami.jpg"parent-code=1234" audio-track="IN",Samay Aalami
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=33450015&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Mangalmay TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mangalmay-tv.jpg"parent-code=1234" audio-track="IN",Mangalmay TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=83371895&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Samay MP	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-mp.jpg"parent-code=1234" audio-track="IN",Samay MP
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=59800012&e=.m3u8	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Divya TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/divya-tv.jpg"parent-code=1234" audio-track="IN",Divya TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=96300829&e=.m3u8	
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Aastha TV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/aastha-tv.jpg"parent-code=1234" audio-track="IN",Aastha TV
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Arihant	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/arihant.jpg"parent-code=1234" audio-track="IN",Arihant
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Aastha Bhajan	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/aastha-bhajan.jpg"parent-code=1234" audio-track="IN",Aastha Bhajan
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Radio Zindagi Bay Area	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/radio-zindagi-bay-area.jpg"parent-code=1234" audio-track="IN",Radio Zindagi Bay Area
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Yupp Hindi Classics	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Yupp_Hindi_Classics_Tv.jpg"parent-code=1234" audio-track="IN",Yupp Hindi Classics
+	
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=IndiaTV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",IndiaTV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=34215727&e=.m3u8	
