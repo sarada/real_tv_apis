@@ -1233,3 +1233,32 @@ http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=96300829&e=.m3u8
 	
 #EXTINF:-1 tvg-id="SunTV.in" tvg-name=IndiaTV	Alt" group-title="YUPPTV | HINDI"tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",IndiaTV
 http://tamilgo.com/api1cdn/ytv/yupp.php?uid=MrManiB256478&id=34215727&e=.m3u8	
+	
+
+
+
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.204:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=RED_sfuLCqpozHbuODHH_qCoGg==,1602194518.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.206:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RED_sfuLCqpozHbuODHH_qCoGg==,1602194518.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.206:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=RED_1ToBMDCP3r3uBLwT1r-8Wg==,1602194979.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.206:2200/NL/b4umovies-in/index.m3u8?token=RED_L0ouGXemtKIntNNTLm2gyg==,1602192229.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.205:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/index.m3u8?token=RED_4NMc3y0ua3J2G9iyfSNKYQ==,1602194982.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://185.246.210.56:2200/EX/ENGLISH_MOVIES-in/index.m3u8?token=RED_1PN-1-Bp4ZakTkc_McXgTQ==,1602194986.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://185.246.210.51:2200/R-EX/ENGLISH_VH1_HD-in/index.m3u8?token=RED_V1DfCfL5PHcbbpB0eoAAWA==,1602194990.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://185.246.210.56:2200/R-EX/ENGLISH_DISCOVERY_SCIENCE-in/index.m3u8?token=RED_0mQIGS0tYqZZ_spl_0FKEA==,1602194994.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://185.246.210.56:2200/R-EX/ENGLISH_TRAVEL_XP_HD-in/index.m3u8?token=RED_cQucQDgvPSgQa8X0xwWtoQ==,1602194996.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.201:2200/R-EX/ENGLISH_VH1_HD-in/tracks-v1a1/mono.m3u8?token=RED_wnkW1-_U8tTrXiaG34s7jg%3D%3D%2C1602195019.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://89.187.169.205:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED_6T8wg6E8nn0gYf0WEg23oQ==,1602195031.0060924673
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name=Test1	Alt" group-title="Test "tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg"parent-code=1234" audio-track="IN",Test 1 
+http://77.166.114.98/scriptstar/mp.php/http://185.246.210.56:2200/R-EX/ENGLISH_TRAVEL_XP_HD-in/index.m3u8?token=RED_cQucQDgvPSgQa8X0xwWtoQ==,1602194996.0060924673
+
